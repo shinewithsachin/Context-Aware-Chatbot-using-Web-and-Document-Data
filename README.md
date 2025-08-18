@@ -85,6 +85,9 @@ streamlit run app.py
 
 
 ![Input-Output](https://github.com/shinewithsachin/Context-Aware-Chatbot-using-Web-and-Document-Data/blob/main/Screenshot%202025-08-18%20175736.png)
+![Input-Output](https://github.com/shinewithsachin/Context-Aware-Chatbot-using-Web-and-Document-Data/blob/main/Screenshot%202025-08-18%20175751.png).
+![Input-Output](https://github.com/shinewithsachin/Context-Aware-Chatbot-using-Web-and-Document-Data/blob/main/Screenshot%202025-08-18%20175811.png).
+
 
 
 ## License

@@ -79,14 +79,15 @@ streamlit run app.py
 * Vector Index: - faiss.IndexFlatIP
 * Web Scraper: - trafilatura
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 
 ## Project Preview
 
 
 
-(https://github.com/shinewithsachin/Context-Aware-Chatbot-using-Web-and-Document-Data/blob/main/Screenshot%202025-08-18%20175736.png)
+![Input-Output](https://github.com/shinewithsachin/Context-Aware-Chatbot-using-Web-and-Document-Data/blob/main/Screenshot%202025-08-18%20175736.png)
+
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 

@@ -1,0 +1,6 @@
+Machine learning is a subset of artificial intelligence that enables systems to learn from data.
+Deep learning uses neural networks with multiple layers to extract hierarchical representations.
+Retrieval-Augmented Generation (RAG) improves answer accuracy by combining document retrieval with text generation.
+FAISS is a library for fast similarity search and clustering of dense vectors.
+Streamlit is an open-source Python framework to build and share data apps quickly.
+Chatbots are used in customer support, healthcare, and education to automate conversations.

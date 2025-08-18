@@ -1,0 +1,10 @@
+streamlit
+transformers>=4.44.0
+sentence-transformers>=3.0.0
+faiss-cpu
+torch
+numpy
+pypdf
+requests
+beautifulsoup4
+trafilatura
